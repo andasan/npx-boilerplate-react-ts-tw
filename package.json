@@ -1,0 +1,19 @@
+{
+	"name": "andasan-react-ts",
+	"description": "A boilerplate for React with TypeScript and TailwindCSS using Vite",
+	"bin": "bin/vite-ts-tw.js",
+	"version": "1.1.4",
+	"keywords": [
+		"andasan",
+		"boilerplate",
+		"react",
+		"typescript",
+		"tailwindcss",
+		"vite"
+	],
+	"author": "andasan",
+	"dependencies": {
+		"chalk": "4.1.2"
+	},
+	"license": "MIT/Apache-2.0"
+}
